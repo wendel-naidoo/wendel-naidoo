@@ -1,4 +1,4 @@
-I'm Wendel
+Hi, I'm Wendel
 
 Technical Support Specialist | Building Human-Centered AI Experiences
 
